@@ -29,9 +29,11 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/saisamarthtaluri/SDXL-WebApp.git
 ```
-
 Navigate to the project directory:
 
+```bash
+cd SDXL-WebApp
+```
 Run the Streamlit app:
 
 ```bash
