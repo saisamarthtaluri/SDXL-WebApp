@@ -14,7 +14,7 @@ You will need to install the following Python libraries:
 pip install streamlit
 pip install torch
 pip install pillow
-pip install numpy
+pip install diffusers
 pip install transformers
 pip install accelerate
 pip install safetensors
