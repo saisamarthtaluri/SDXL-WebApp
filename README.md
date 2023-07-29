@@ -26,6 +26,10 @@ Please make sure you have a CUDA-compatible GPU setup on your machine for runnin
 
 Clone the repository to your local machine:
 
+```bash
+git clone https://github.com/saisamarthtaluri/SDXL-WebApp.git
+```
+
 Navigate to the project directory:
 
 Run the Streamlit app:
