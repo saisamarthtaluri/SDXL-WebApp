@@ -47,6 +47,8 @@ Choose a model: "Text-to-Image" or "Image-to-Image".
 
 If you select "Text-to-Image", enter your text prompt in the provided field and click "Generate Image". The app will generate an image based on your text prompt.
 
-<img width="551" alt="3" src="https://github.com/saisamarthtaluri/SDXL-WebApp/assets/95733415/01d288c2-b74a-4169-9c13-647c904c9515">
-
 If you choose "Image-to-Image", upload an image and enter your text prompt in the provided fields. Then click "Generate Image". The app will generate a modified version of the uploaded image based on your text prompt.
+
+<p align="center">
+<img width="551" alt="3" src="https://github.com/saisamarthtaluri/SDXL-WebApp/assets/95733415/01d288c2-b74a-4169-9c13-647c904c9515">
+</p>
